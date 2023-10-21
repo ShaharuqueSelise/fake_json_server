@@ -1,0 +1,9 @@
+Root Directory=> ./
+build command=> npm i
+start command=> npm index.js
+
+
+
+------------------
+npx vite build(for ignoring typescript error)
+nodemon start

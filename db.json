@@ -116,5 +116,14 @@
       "name": "Australia",
       "flagUrl": "https://www.worldometers.info/img/flags/as-flag.gif"
     }
+  ],
+
+  "shopping":[
+    {"id":1,
+    "name":"Laptop",
+    "price":1000},
+    {"id":2,
+    "name":"Mobile",
+    "price":500}
   ]
 }
