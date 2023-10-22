@@ -130,7 +130,7 @@
       "vehicleType": "microbus",
       "ownerName": "Test Service",
       "ownerPhone": "458585856",
-      "status": "in",
+      "status": "out",
       "ownerAddress": "Mohammedpur, Basabo",
       "entryDateTime": "2023-09-21T16:02",
       "exitDateTime": "2023-09-21T19:08",
@@ -172,6 +172,42 @@
       "exitDateTime": "2023-10-22T20:58",
       "parkingCharge": "100",
       "id": 8
+    },
+    {
+      "licenseNumber": "78970000",
+      "vehicleType": "truck",
+      "ownerName": "Shaharuque Amin",
+      "ownerPhone": "1235689875",
+      "status": "in",
+      "ownerAddress": "Adabor thana ,dhaka",
+      "entryDateTime": "2023-10-22T17:30",
+      "exitDateTime": "2023-10-22T20:30",
+      "parkingCharge": "1000",
+      "id": 9
+    },
+    {
+      "licenseNumber": "89890011",
+      "vehicleType": "car",
+      "ownerName": "Test Name",
+      "ownerPhone": "456585666",
+      "status": "in",
+      "ownerAddress": "Mohammedpur, Basabo",
+      "entryDateTime": "2023-10-22T13:50",
+      "exitDateTime": "2023-10-22T15:50",
+      "parkingCharge": "100",
+      "id": 10
+    },
+    {
+      "licenseNumber": "1212120",
+      "vehicleType": "microbus",
+      "ownerName": "Faizul 007",
+      "ownerPhone": "1123568999",
+      "status": "in",
+      "ownerAddress": "Mohammedpur",
+      "entryDateTime": "2023-10-22T19:01",
+      "exitDateTime": "2023-10-22T20:01",
+      "parkingCharge": "1000",
+      "id": 11
     }
   ]
 }
