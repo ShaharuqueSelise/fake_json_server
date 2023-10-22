@@ -126,28 +126,52 @@
   ],
   "vehicles": [
     {
-      "licenseNumber": "123",
-      "vehicleType": "car",
-      "ownerName": "Shaik25",
-      "ownerPhone": "01455555",
-      "status": "out",
-      "ownerAddress": "Mohammedpur",
-      "entryDateTime": "2023-10-22T14:38",
-      "exitDateTime": "2023-10-22T15:41",
+      "licenseNumber": "787878",
+      "vehicleType": "microbus",
+      "ownerName": "Test Service",
+      "ownerPhone": "458585856",
+      "status": "in",
+      "ownerAddress": "Mohammedpur, Basabo",
+      "entryDateTime": "2023-09-21T16:02",
+      "exitDateTime": "2023-09-21T19:08",
       "parkingCharge": "1000",
-      "id": 1
+      "id": 5
     },
     {
-      "licenseNumber": "252",
+      "licenseNumber": "121212",
       "vehicleType": "microbus",
+      "ownerName": "Shaik",
+      "ownerPhone": "256585655",
+      "status": "in",
+      "ownerAddress": "Mohammedpur",
+      "entryDateTime": "2023-10-22T16:05",
+      "exitDateTime": "2023-10-22T16:59",
+      "parkingCharge": "100",
+      "id": 6
+    },
+    {
+      "licenseNumber": "7898585",
+      "vehicleType": "car",
       "ownerName": "zahid",
-      "ownerPhone": "01285855557",
-      "status": "out",
+      "ownerPhone": "789456456",
+      "status": "in",
       "ownerAddress": "Mohammedpur, Basabo",
-      "entryDateTime": "2023-10-22T13:30",
-      "exitDateTime": "2023-10-22T13:55",
-      "parkingCharge": "20",
-      "id": 2
+      "entryDateTime": "2023-10-24T16:33",
+      "exitDateTime": "2023-10-24T18:56",
+      "parkingCharge": "100",
+      "id": 7
+    },
+    {
+      "licenseNumber": "7878785",
+      "vehicleType": "car",
+      "ownerName": "Test Service",
+      "ownerPhone": "0128585555",
+      "status": "in",
+      "ownerAddress": "Mohammedpur, Basabo",
+      "entryDateTime": "2023-10-22T17:40",
+      "exitDateTime": "2023-10-22T20:58",
+      "parkingCharge": "100",
+      "id": 8
     }
   ]
 }
