@@ -65,7 +65,7 @@
     },
     {
       "id": 7,
-      "team1": 3,
+      "team1": 2,
       "team2": 4,
       "wholeMatch": [
         2,
@@ -117,13 +117,37 @@
       "flagUrl": "https://www.worldometers.info/img/flags/as-flag.gif"
     }
   ],
-
-  "shopping":[
-    {"id":1,
-    "name":"Laptop",
-    "price":1000},
-    {"id":2,
-    "name":"Mobile",
-    "price":500}
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1000
+    }
+  ],
+  "vehicles": [
+    {
+      "licenseNumber": "123",
+      "vehicleType": "car",
+      "ownerName": "Shaik25",
+      "ownerPhone": "01455555",
+      "status": "out",
+      "ownerAddress": "Mohammedpur",
+      "entryDateTime": "2023-10-22T14:38",
+      "exitDateTime": "2023-10-22T15:41",
+      "parkingCharge": "1000",
+      "id": 1
+    },
+    {
+      "licenseNumber": "252",
+      "vehicleType": "microbus",
+      "ownerName": "zahid",
+      "ownerPhone": "01285855557",
+      "status": "out",
+      "ownerAddress": "Mohammedpur, Basabo",
+      "entryDateTime": "2023-10-22T13:30",
+      "exitDateTime": "2023-10-22T13:55",
+      "parkingCharge": "20",
+      "id": 2
+    }
   ]
 }
