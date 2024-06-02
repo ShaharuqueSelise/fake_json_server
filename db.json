@@ -1,213 +1,145 @@
 {
   "matches": [
     {
-      "id": 4,
-      "team1": 3,
-      "team2": 4,
-      "wholeMatch": [
-        2,
-        6,
-        4,
-        6,
-        6,
-        3,
-        3,
-        1,
-        3,
-        2,
-        4,
-        4
+      "id": "45189b2f-c449-493d-869f-1005a240f674",
+      "tossWinner": {
+        "id": 1,
+        "name": "Bangladesh",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+      },
+      "team1": {
+        "id": 1,
+        "name": "Bangladesh",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+      },
+      "team2": {
+        "id": 3,
+        "name": "India",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+      },
+      "innings": [
+        {
+          "team": {
+            "id": 1,
+            "name": "Bangladesh",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+          },
+          "runs": [
+            {
+              "ball": 1,
+              "run": 2
+            },
+            {
+              "ball": 2,
+              "run": 2
+            },
+            {
+              "ball": 3,
+              "run": 4
+            },
+            {
+              "ball": 4,
+              "run": 3
+            },
+            {
+              "ball": 5,
+              "run": 4
+            },
+            {
+              "ball": 6,
+              "run": 1
+            }
+          ],
+          "totalRuns": 16
+        },
+        {
+          "team": {
+            "id": 3,
+            "name": "India",
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+          },
+          "runs": [
+            {
+              "ball": 1,
+              "run": 1
+            },
+            {
+              "ball": 2,
+              "run": 3
+            },
+            {
+              "ball": 3,
+              "run": 4
+            },
+            {
+              "ball": 4,
+              "run": 3
+            },
+            {
+              "ball": 5,
+              "run": 4
+            },
+            {
+              "ball": 6,
+              "run": 2
+            }
+          ],
+          "totalRuns": 17
+        }
       ],
-      "tossWinner": 3,
-      "firstBowl": 3
-    },
-    {
-      "id": 5,
-      "team1": 1,
-      "team2": 6,
-      "wholeMatch": [
-        3,
-        1,
-        2,
-        6,
-        2,
-        1,
-        3,
-        3,
-        4,
-        3,
-        2,
-        2
-      ],
-      "tossWinner": 1,
-      "firstBowl": 1
-    },
-    {
-      "id": 6,
-      "team1": 4,
-      "team2": 2,
-      "wholeMatch": [
-        2,
-        2,
-        6,
-        3,
-        6,
-        4,
-        6,
-        6,
-        4,
-        4,
-        6,
-        3
-      ],
-      "tossWinner": 2,
-      "firstBowl": 2
-    },
-    {
-      "id": 7,
-      "team1": 2,
-      "team2": 4,
-      "wholeMatch": [
-        2,
-        1,
-        3,
-        6,
-        6,
-        3,
-        3,
-        1,
-        3,
-        2,
-        4,
-        4
-      ],
-      "tossWinner": 4,
-      "firstBowl": 4
+      "matchWinner": "India"
     }
   ],
   "teams": [
     {
       "id": 1,
       "name": "Bangladesh",
-      "flagUrl": "https://www.worldometers.info/img/flags/bg-flag.gif"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
     },
     {
       "id": 2,
-      "name": "India",
-      "flagUrl": "https://www.worldometers.info/img/flags/in-flag.gif"
+      "name": "Sri Lanka",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
     },
     {
       "id": 3,
-      "name": "Pakistan",
-      "flagUrl": "https://www.worldometers.info/img/flags/pk-flag.gif"
+      "name": "India",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
     },
     {
       "id": 4,
-      "name": "England",
-      "flagUrl": "https://www.worldometers.info/img/flags/uk-flag.gif"
+      "name": "Pakistan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
     },
     {
       "id": 5,
-      "name": "Sri Lanka",
-      "flagUrl": "https://www.worldometers.info/img/flags/ce-flag.gif"
+      "name": "Australia",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg"
     },
     {
       "id": 6,
-      "name": "Australia",
-      "flagUrl": "https://www.worldometers.info/img/flags/as-flag.gif"
-    }
-  ],
-  "shopping": [
-    {
-      "id": 1,
-      "name": "Laptop",
-      "price": 1000
-    }
-  ],
-  "vehicles": [
-    {
-      "licenseNumber": "787878",
-      "vehicleType": "microbus",
-      "ownerName": "Test Service",
-      "ownerPhone": "458585856",
-      "status": "out",
-      "ownerAddress": "Mohammedpur, Basabo",
-      "entryDateTime": "2023-09-21T16:02",
-      "exitDateTime": "2023-09-21T19:08",
-      "parkingCharge": "1000",
-      "id": 5
+      "name": "England",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
     },
     {
-      "licenseNumber": "121212",
-      "vehicleType": "microbus",
-      "ownerName": "Shaik",
-      "ownerPhone": "256585655",
-      "status": "in",
-      "ownerAddress": "Mohammedpur",
-      "entryDateTime": "2023-10-22T16:05",
-      "exitDateTime": "2023-10-22T16:59",
-      "parkingCharge": "100",
-      "id": 6
+      "id": 7,
+      "name": "New Zealand",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
     },
     {
-      "licenseNumber": "7898585",
-      "vehicleType": "car",
-      "ownerName": "zahid",
-      "ownerPhone": "789456456",
-      "status": "in",
-      "ownerAddress": "Mohammedpur, Basabo",
-      "entryDateTime": "2023-10-24T16:33",
-      "exitDateTime": "2023-10-24T18:56",
-      "parkingCharge": "100",
-      "id": 7
+      "id": 8,
+      "name": "South Africa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
     },
     {
-      "licenseNumber": "7878785",
-      "vehicleType": "car",
-      "ownerName": "Test Service",
-      "ownerPhone": "0128585555",
-      "status": "in",
-      "ownerAddress": "Mohammedpur, Basabo",
-      "entryDateTime": "2023-10-22T17:40",
-      "exitDateTime": "2023-10-22T20:58",
-      "parkingCharge": "100",
-      "id": 8
+      "id": 9,
+      "name": "Afghanistan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg"
     },
     {
-      "licenseNumber": "78970000",
-      "vehicleType": "truck",
-      "ownerName": "Shaharuque Amin",
-      "ownerPhone": "1235689875",
-      "status": "in",
-      "ownerAddress": "Adabor thana ,dhaka",
-      "entryDateTime": "2023-10-22T17:30",
-      "exitDateTime": "2023-10-22T20:30",
-      "parkingCharge": "1000",
-      "id": 9
-    },
-    {
-      "licenseNumber": "89890011",
-      "vehicleType": "car",
-      "ownerName": "Test Name",
-      "ownerPhone": "456585666",
-      "status": "in",
-      "ownerAddress": "Mohammedpur, Basabo",
-      "entryDateTime": "2023-10-22T13:50",
-      "exitDateTime": "2023-10-22T15:50",
-      "parkingCharge": "100",
-      "id": 10
-    },
-    {
-      "licenseNumber": "1212120",
-      "vehicleType": "microbus",
-      "ownerName": "Faizul 007",
-      "ownerPhone": "1123568999",
-      "status": "in",
-      "ownerAddress": "Mohammedpur",
-      "entryDateTime": "2023-10-22T19:01",
-      "exitDateTime": "2023-10-22T20:01",
-      "parkingCharge": "1000",
-      "id": 11
+      "id": 10,
+      "name": "Netherlands",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
     }
   ]
 }
